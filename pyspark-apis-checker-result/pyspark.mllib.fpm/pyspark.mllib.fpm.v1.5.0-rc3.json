@@ -1,0 +1,1 @@
+{"FPGrowthModel": {"instance_methods": {}, "class_methods": {"__del__": ["self"], "freqItemsets": ["self"], "call": ["self", "name"], "__init__": ["self", "java_model"]}}, "FPGrowth": {"instance_methods": {}, "class_methods": {"train": ["cls", "data", "minSupport", "numPartitions"]}}}

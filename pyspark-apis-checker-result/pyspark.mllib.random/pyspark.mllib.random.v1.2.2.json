@@ -1,0 +1,1 @@
+{"RandomRDDs": {"instance_methods": {"uniformRDD": ["sc", "size", "numPartitions", "seed"], "poissonVectorRDD": ["sc"], "uniformVectorRDD": ["sc"], "normalRDD": ["sc", "size", "numPartitions", "seed"], "normalVectorRDD": ["sc"], "poissonRDD": ["sc", "mean", "size", "numPartitions", "seed"]}, "class_methods": {}}}
