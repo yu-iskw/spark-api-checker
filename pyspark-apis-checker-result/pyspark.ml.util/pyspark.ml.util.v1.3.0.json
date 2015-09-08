@@ -1,1 +1,1 @@
-{"Identifiable": {"instance_methods": {}, "class_methods": {"__repr__": ["self"], "__init__": ["self"]}}}
+{"Identifiable": {"instance_methods": {}, "name": "Identifiable", "class_methods": {"__repr__": {"argspec": ["self"], "name": "__repr__"}, "__init__": {"argspec": ["self"], "name": "__init__"}}}}
