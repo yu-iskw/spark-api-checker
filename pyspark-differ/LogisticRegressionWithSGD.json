@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v0.9.1", "name": "LogisticRegressionWithSGD", "class_methods": [{"version": "v0.9.1", "type": "instancemethod", "name": "train"}]}
+{"instance_methods": [], "version": "v0.9.0-incubating", "name": "LogisticRegressionWithSGD", "class_methods": [{"version": "v0.9.0-incubating", "type": "instancemethod", "name": "train"}]}

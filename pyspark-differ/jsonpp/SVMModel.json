@@ -1,7 +1,7 @@
 {
   "instance_methods": [
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "predict"
     },
@@ -11,7 +11,7 @@
       "name": "save"
     }
   ],
-  "version": "v0.9.1",
+  "version": "v0.9.0-incubating",
   "name": "SVMModel",
   "class_methods": [
     {

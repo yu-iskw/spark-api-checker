@@ -30,6 +30,24 @@ else
 fi
 
 TAGS_AND_BRANCHES=`cat << EOM
+0.3-scala-2.8
+0.3-scala-2.9
+alpha-0.1
+alpha-0.2
+v0.5.0
+v0.5.1
+v0.5.2
+v0.6.0
+v0.6.0-yarn
+v0.6.1
+v0.6.2
+v0.7.0
+v0.7.0-bizo-1
+v0.7.1
+v0.7.2
+v0.8.0-incubating
+v0.8.1-incubating
+v0.9.0-incubating
 v0.9.1
 v0.9.2
 v1.0.0
@@ -44,6 +62,8 @@ v1.3.0
 v1.3.1
 v1.4.0
 v1.4.1
+v1.5.0-rc1
+v1.5.0-rc2
 v1.5.0-rc3
 master
 EOM

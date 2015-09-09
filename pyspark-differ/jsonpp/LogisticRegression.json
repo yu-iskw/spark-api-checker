@@ -6,7 +6,7 @@
       "name": "_create_model"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "_checkThresholdConsistency"
     },
@@ -21,7 +21,7 @@
       "name": "setFitIntercept"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "setThresholds"
     },
@@ -31,7 +31,7 @@
       "name": "getFitIntercept"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "getThresholds"
     },

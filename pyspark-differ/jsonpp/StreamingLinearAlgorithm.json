@@ -1,27 +1,27 @@
 {
   "instance_methods": [
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "_validate"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "predictOn"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "latestModel"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "predictOnValues"
     }
   ],
-  "version": "master",
+  "version": "v1.5.0-rc1",
   "name": "StreamingLinearAlgorithm",
   "class_methods": []
 }

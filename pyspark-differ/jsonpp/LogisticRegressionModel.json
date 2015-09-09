@@ -1,7 +1,7 @@
 {
   "instance_methods": [
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "predict"
     },
@@ -21,7 +21,7 @@
       "name": "numFeatures"
     }
   ],
-  "version": "v0.9.1",
+  "version": "v0.9.0-incubating",
   "name": "LogisticRegressionModel",
   "class_methods": [
     {

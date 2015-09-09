@@ -14,12 +14,12 @@
       "name": "loadLabeledPoints"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "function",
       "name": "loadVectors"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "function",
       "name": "appendBias"
     },

@@ -21,7 +21,7 @@
       "name": "registerDataFrameAsTable"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "_createFromLocal"
     },
@@ -56,7 +56,7 @@
       "name": "tableNames"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "_createFromRDD"
     },
@@ -71,7 +71,7 @@
       "name": "_ssql_ctx"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "_inferSchemaFromList"
     },

@@ -11,12 +11,12 @@
       "name": "_memory_limit"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "sortByKey"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "mapPartitionsWithIndex"
     },
@@ -26,12 +26,12 @@
       "name": "foreachPartition"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "_reserialize"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "persist"
     },
@@ -41,17 +41,17 @@
       "name": "isEmpty"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "mapPartitionsWithSplit"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "foreach"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "flatMap"
     },
@@ -66,7 +66,7 @@
       "name": "intersection"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "partitionBy"
     },
@@ -76,27 +76,27 @@
       "name": "name"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "collect"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "saveAsPickleFile"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "saveAsSequenceFile"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "getNumPartitions"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "mean"
     },
@@ -106,37 +106,37 @@
       "name": "getStorageLevel"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "saveAsNewAPIHadoopDataset"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "reduce"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "countByKey"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "aggregateByKey"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "groupBy"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "getCheckpointFile"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "stats"
     },
@@ -146,17 +146,17 @@
       "name": "fullOuterJoin"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "sum"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "reduceByKeyLocally"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "rightOuterJoin"
     },
@@ -166,7 +166,7 @@
       "name": "takeOrdered"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "collectAsMap"
     },
@@ -181,37 +181,37 @@
       "name": "meanApprox"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "stdev"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "subtract"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "subtractByKey"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "saveAsTextFile"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "filter"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "union"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "property",
       "name": "context"
     },
@@ -221,47 +221,47 @@
       "name": "treeReduce"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "variance"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "saveAsHadoopFile"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "sampleByKey"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "first"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "combineByKey"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "cache"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "saveAsNewAPIHadoopFile"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "groupWith"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "cartesian"
     },
@@ -271,12 +271,12 @@
       "name": "zip"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "reduceByKey"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "distinct"
     },
@@ -291,7 +291,7 @@
       "name": "toLocalIterator"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "checkpoint"
     },
@@ -301,17 +301,17 @@
       "name": "coalesce"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "leftOuterJoin"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "mapPartitions"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "saveAsHadoopDataset"
     },
@@ -331,12 +331,12 @@
       "name": "toDebugString"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "keyBy"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "histogram"
     },
@@ -346,17 +346,17 @@
       "name": "sumApprox"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "sortBy"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "sampleStdev"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "count"
     },
@@ -366,22 +366,22 @@
       "name": "foldByKey"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "join"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "fold"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "unpersist"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "_defaultReducePartitions"
     },
@@ -396,7 +396,7 @@
       "name": "countApprox"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "sampleVariance"
     },
@@ -411,7 +411,7 @@
       "name": "_pickled"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "zipWithIndex"
     },
@@ -421,17 +421,17 @@
       "name": "randomSplit"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "groupByKey"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "sample"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "isCheckpointed"
     },
@@ -451,7 +451,7 @@
       "name": "min"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "countByValue"
     },
@@ -461,22 +461,22 @@
       "name": "lookup"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "take"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "flatMapValues"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "map"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "glom"
     },
@@ -486,12 +486,12 @@
       "name": "keys"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "takeSample"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "cogroup"
     },
@@ -506,26 +506,26 @@
       "name": "max"
     },
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "instancemethod",
       "name": "zipWithUniqueId"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "mapValues"
     },
     {
-      "version": "v0.9.1",
+      "version": "v0.9.0-incubating",
       "type": "instancemethod",
       "name": "pipe"
     }
   ],
-  "version": "v0.9.1",
+  "version": "v0.9.0-incubating",
   "name": "RDD",
   "class_methods": [
     {
-      "version": "v1.2.0",
+      "version": "v1.1.0",
       "type": "function",
       "name": "_computeFractionForSampleSize"
     }

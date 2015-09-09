@@ -1,12 +1,12 @@
 {
   "instance_methods": [
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "property",
       "name": "treeWeights"
     }
   ],
-  "version": "master",
+  "version": "v1.5.0-rc1",
   "name": "TreeEnsembleModels",
   "class_methods": []
 }

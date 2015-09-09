@@ -1,217 +1,217 @@
 {
   "instance_methods": [
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "combineByKey"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "reduce"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "pprint"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "property",
       "name": "_slideDuration"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "repartition"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "mapPartitions"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "_validate_window_param"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "updateStateByKey"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "countByValue"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "slice"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "union"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "reduceByKeyAndWindow"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "cache"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "transform"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "checkpoint"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "reduceByKey"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "window"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "leftOuterJoin"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "persist"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "flatMapValues"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "map"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "flatMap"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "saveAsTextFiles"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "glom"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "rightOuterJoin"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "_jtime"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "groupByKey"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "cogroup"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "mapPartitionsWithIndex"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "reduceByWindow"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "foreachRDD"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "partitionBy"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "countByWindow"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "count"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "join"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "transformWith"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "mapValues"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "countByValueAndWindow"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "filter"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "fullOuterJoin"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "context"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "groupByKeyAndWindow"
     }
   ],
-  "version": "master",
+  "version": "v1.5.0-rc1",
   "name": "DStream",
   "class_methods": []
 }

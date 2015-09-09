@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v0.9.1", "type": "instancemethod", "name": "predict"}], "version": "v0.9.1", "name": "LinearRegressionModelBase", "class_methods": []}
+{"instance_methods": [{"version": "v0.9.0-incubating", "type": "instancemethod", "name": "predict"}], "version": "v0.9.0-incubating", "name": "LinearRegressionModelBase", "class_methods": []}

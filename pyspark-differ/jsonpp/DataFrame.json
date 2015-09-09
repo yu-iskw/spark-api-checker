@@ -306,7 +306,7 @@
       "name": "filter"
     },
     {
-      "version": "master",
+      "version": "v1.5.0-rc1",
       "type": "instancemethod",
       "name": "sampleBy"
     },

@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "master", "name": "LinearDataGenerator", "class_methods": [{"version": "master", "type": "function", "name": "generateLinearInput"}, {"version": "master", "type": "function", "name": "generateLinearRDD"}]}
+{"instance_methods": [], "version": "v1.5.0-rc1", "name": "LinearDataGenerator", "class_methods": [{"version": "v1.5.0-rc1", "type": "function", "name": "generateLinearInput"}, {"version": "v1.5.0-rc1", "type": "function", "name": "generateLinearRDD"}]}
