@@ -55,4 +55,6 @@ bash pyspark-api-checker.sh pyspark.mllib.clustering
 
 ```
 bash pyspark-apis-checker.sh
+mkdir pyspark-differ
+python pyspark-differ.py
 ```
