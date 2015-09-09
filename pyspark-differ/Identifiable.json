@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.3.0", "name": "Identifiable", "class_methods": [{"version": "v1.4.0", "name": "_randomUID"}]}
+{"instance_methods": [], "version": "v1.3.0", "name": "Identifiable", "class_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "_randomUID"}]}

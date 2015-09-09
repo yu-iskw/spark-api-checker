@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.2.0", "name": "StandardScalerModel", "class_methods": [{"version": "v1.4.0", "name": "setWithMean"}, {"version": "v1.4.0", "name": "setWithStd"}, {"version": "v1.2.0", "name": "transform"}]}
+{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "setWithMean"}, {"version": "v1.4.0", "type": "instancemethod", "name": "setWithStd"}, {"version": "v1.2.0", "type": "instancemethod", "name": "transform"}], "version": "v1.2.0", "name": "StandardScalerModel", "class_methods": []}

@@ -1,19 +1,23 @@
 {
-  "instance_methods": [],
+  "instance_methods": [
+    {
+      "version": "master",
+      "type": "instancemethod",
+      "name": "predict"
+    },
+    {
+      "version": "master",
+      "type": "instancemethod",
+      "name": "save"
+    }
+  ],
   "version": "master",
   "name": "NaiveBayesModel",
   "class_methods": [
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "load"
-    },
-    {
-      "version": "master",
-      "name": "predict"
-    },
-    {
-      "version": "master",
-      "name": "save"
     }
   ]
 }

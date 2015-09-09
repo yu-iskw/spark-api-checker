@@ -119,24 +119,26 @@ class Method():
     def generate(cls, dict, version):
         singleton_key = dict["name"] + version
         if not version in Method.singletons:
-            Method.singletons[singleton_key] = Method(dict["name"], version)
+            Method.singletons[singleton_key] = Method(dict["name"], version, dict["type"])
         return Method.singletons[singleton_key]
 
-    def __init__(self, name, version):
+    def __init__(self, name, version, object_type):
         self._name = name
         self._version = version
+        self._type = object_type
 
     def expand(self):
         dict = {}
         dict["name"] = self._name
         dict["version"] = self._version
+        dict["type"] = self._type
         return dict
 
     def merge(self, other):
         if self._name != other._name:
             raise Exception(self_name + "is different from " + other._name)
         versions = sort_version([self._version, other._version])
-        merged = Method(self._name, versions[0])
+        merged = Method(self._name, versions[0], self._type)
         return merged
 
 

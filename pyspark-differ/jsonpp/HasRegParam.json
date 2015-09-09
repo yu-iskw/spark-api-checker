@@ -1,15 +1,17 @@
 {
-  "instance_methods": [],
-  "version": "v1.3.0",
-  "name": "HasRegParam",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.3.0",
+      "type": "instancemethod",
       "name": "setRegParam"
     },
     {
       "version": "v1.3.0",
+      "type": "instancemethod",
       "name": "getRegParam"
     }
-  ]
+  ],
+  "version": "v1.3.0",
+  "name": "HasRegParam",
+  "class_methods": []
 }

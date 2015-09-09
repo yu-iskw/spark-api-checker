@@ -1,23 +1,27 @@
 {
-  "instance_methods": [],
-  "version": "v1.4.0",
-  "name": "DecisionTreeRegressor",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "getImpurity"
     },
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "setParams"
     },
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "_create_model"
     },
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "setImpurity"
     }
-  ]
+  ],
+  "version": "v1.4.0",
+  "name": "DecisionTreeRegressor",
+  "class_methods": []
 }

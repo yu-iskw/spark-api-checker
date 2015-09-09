@@ -1,1 +1,1 @@
-{"Identifiable": {"instance_methods": {}, "name": "Identifiable", "class_methods": {"_randomUID": {"argspec": ["cls"], "name": "_randomUID"}}}}
+{"Identifiable": {"instance_methods": {}, "name": "Identifiable", "class_methods": {"_randomUID": {"argspec": [], "type": "instancemethod", "name": "_randomUID"}}}}

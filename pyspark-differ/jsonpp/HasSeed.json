@@ -1,15 +1,17 @@
 {
-  "instance_methods": [],
-  "version": "v1.4.0",
-  "name": "HasSeed",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "setSeed"
     },
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "getSeed"
     }
-  ]
+  ],
+  "version": "v1.4.0",
+  "name": "HasSeed",
+  "class_methods": []
 }

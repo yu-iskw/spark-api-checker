@@ -1,11 +1,12 @@
 {
-  "instance_methods": [],
-  "version": "v1.4.0",
-  "name": "ChiSqSelectorModel",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "transform"
     }
-  ]
+  ],
+  "version": "v1.4.0",
+  "name": "ChiSqSelectorModel",
+  "class_methods": []
 }

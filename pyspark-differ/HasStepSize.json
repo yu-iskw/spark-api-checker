@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.4.0", "name": "HasStepSize", "class_methods": [{"version": "v1.4.0", "name": "setStepSize"}, {"version": "v1.4.0", "name": "getStepSize"}]}
+{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "setStepSize"}, {"version": "v1.4.0", "type": "instancemethod", "name": "getStepSize"}], "version": "v1.4.0", "name": "HasStepSize", "class_methods": []}

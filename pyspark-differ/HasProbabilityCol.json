@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.4.0", "name": "HasProbabilityCol", "class_methods": [{"version": "v1.4.0", "name": "getProbabilityCol"}, {"version": "v1.4.0", "name": "setProbabilityCol"}]}
+{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "getProbabilityCol"}, {"version": "v1.4.0", "type": "instancemethod", "name": "setProbabilityCol"}], "version": "v1.4.0", "name": "HasProbabilityCol", "class_methods": []}

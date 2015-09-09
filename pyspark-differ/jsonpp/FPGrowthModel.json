@@ -1,11 +1,12 @@
 {
-  "instance_methods": [],
-  "version": "v1.4.0",
-  "name": "FPGrowthModel",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "freqItemsets"
     }
-  ]
+  ],
+  "version": "v1.4.0",
+  "name": "FPGrowthModel",
+  "class_methods": []
 }

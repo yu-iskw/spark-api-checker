@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.3.0", "name": "HasPredictionCol", "class_methods": [{"version": "v1.3.0", "name": "setPredictionCol"}, {"version": "v1.3.0", "name": "getPredictionCol"}]}
+{"instance_methods": [{"version": "v1.3.0", "type": "instancemethod", "name": "setPredictionCol"}, {"version": "v1.3.0", "type": "instancemethod", "name": "getPredictionCol"}], "version": "v1.3.0", "name": "HasPredictionCol", "class_methods": []}

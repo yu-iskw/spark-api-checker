@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.4.0", "name": "CrossValidatorModel", "class_methods": [{"version": "v1.4.0", "name": "copy"}, {"version": "v1.4.0", "name": "_transform"}]}
+{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "copy"}, {"version": "v1.4.0", "type": "instancemethod", "name": "_transform"}], "version": "v1.4.0", "name": "CrossValidatorModel", "class_methods": []}

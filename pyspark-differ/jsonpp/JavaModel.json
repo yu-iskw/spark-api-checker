@@ -1,15 +1,17 @@
 {
-  "instance_methods": [],
-  "version": "v1.3.0",
-  "name": "JavaModel",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "copy"
     },
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "_call_java"
     }
-  ]
+  ],
+  "version": "v1.3.0",
+  "name": "JavaModel",
+  "class_methods": []
 }

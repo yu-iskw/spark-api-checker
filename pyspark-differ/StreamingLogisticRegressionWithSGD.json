@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "master", "name": "StreamingLogisticRegressionWithSGD", "class_methods": [{"version": "master", "name": "setInitialWeights"}, {"version": "master", "name": "trainOn"}]}
+{"instance_methods": [{"version": "master", "type": "instancemethod", "name": "setInitialWeights"}, {"version": "master", "type": "instancemethod", "name": "trainOn"}], "version": "master", "name": "StreamingLogisticRegressionWithSGD", "class_methods": []}

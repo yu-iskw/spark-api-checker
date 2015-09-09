@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v0.9.1", "name": "LinearModel", "class_methods": []}
+{"instance_methods": [{"version": "v1.0.0", "type": "property", "name": "intercept"}, {"version": "v1.0.0", "type": "property", "name": "weights"}], "version": "v0.9.1", "name": "LinearModel", "class_methods": []}

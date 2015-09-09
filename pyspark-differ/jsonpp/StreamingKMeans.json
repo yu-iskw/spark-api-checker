@@ -1,47 +1,57 @@
 {
-  "instance_methods": [],
-  "version": "master",
-  "name": "StreamingKMeans",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "predictOn"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "setHalfLife"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "setDecayFactor"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "_validate"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "trainOn"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "setK"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "latestModel"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "setRandomCenters"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "setInitialCenters"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "predictOnValues"
     }
-  ]
+  ],
+  "version": "master",
+  "name": "StreamingKMeans",
+  "class_methods": []
 }

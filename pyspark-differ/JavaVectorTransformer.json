@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.2.0", "name": "JavaVectorTransformer", "class_methods": [{"version": "v1.2.0", "name": "transform"}]}
+{"instance_methods": [{"version": "v1.2.0", "type": "instancemethod", "name": "transform"}], "version": "v1.2.0", "name": "JavaVectorTransformer", "class_methods": []}

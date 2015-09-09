@@ -1,11 +1,12 @@
 {
-  "instance_methods": [],
-  "version": "master",
-  "name": "ElementwiseProduct",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "transform"
     }
-  ]
+  ],
+  "version": "master",
+  "name": "ElementwiseProduct",
+  "class_methods": []
 }

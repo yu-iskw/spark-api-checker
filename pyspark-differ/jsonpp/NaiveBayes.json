@@ -5,6 +5,7 @@
   "class_methods": [
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "train"
     }
   ]

@@ -5,15 +5,24 @@ import json
 import re
 import types
 
-def get_method_info(method):
+def get_method_info(klass, method_name):
     dict = {}
-    argspec, _, _, _ = inspect.getargspec(method)
     dict["name"] = method_name
-    dict["argspec"] = argspec
+    r = re.compile("<type '(.*)'>")
+    if r.match(str(type(klass.__dict__[method_name]))):
+        m = r.search(str(type(method)))
+        dict["type"] = m.group(1)
+    dict["argspec"] = []
     return dict
+    #argspec, _, _, _ = inspect.getargspec(method)
+    #dict["name"] = method_name
+    #dict["argspec"] = argspec
+    #return dict
 
 def is_instance_method(klass, method_name):
-    if str(type(klass.__dict__[method_name])) == "<type 'instancemethod'>":
+    if str(type(klass.__dict__[method_name])) == "<type 'instancemethod'>" or \
+            str(type(klass.__dict__[method_name])) == "<type 'function'>" or \
+            str(type(klass.__dict__[method_name])) == "<type 'property'>":
         return True
     else:
         return False
@@ -48,10 +57,10 @@ for c, _ in inspect.getmembers(module, predicate=inspect.isclass):
     for method_name in methods:
         method = getattr(klass, method_name)
         if is_instance_method(klass, method_name):
-            method_info = get_method_info(method)
+            method_info = get_method_info(klass, method_name)
             definitions[c]["instance_methods"][method_name] = method_info
         elif is_class_method(klass, method_name):
-            method_info = get_method_info(method)
+            method_info = get_method_info(klass, method_name)
             definitions[c]["class_methods"][method_name] = method_info
 
 

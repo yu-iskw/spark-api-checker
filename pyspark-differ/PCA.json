@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "master", "name": "PCA", "class_methods": [{"version": "master", "name": "fit"}]}
+{"instance_methods": [{"version": "master", "type": "instancemethod", "name": "fit"}], "version": "master", "name": "PCA", "class_methods": []}

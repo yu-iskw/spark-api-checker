@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v0.9.1", "name": "KMeans", "class_methods": [{"version": "v0.9.1", "name": "train"}]}
+{"instance_methods": [], "version": "v0.9.1", "name": "KMeans", "class_methods": [{"version": "v0.9.1", "type": "instancemethod", "name": "train"}]}

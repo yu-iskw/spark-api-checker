@@ -1,11 +1,17 @@
 {
-  "instance_methods": [],
-  "version": "master",
-  "name": "StreamingKMeansModel",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "update"
+    },
+    {
+      "version": "master",
+      "type": "property",
+      "name": "clusterWeights"
     }
-  ]
+  ],
+  "version": "master",
+  "name": "StreamingKMeansModel",
+  "class_methods": []
 }

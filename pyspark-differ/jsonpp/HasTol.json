@@ -1,15 +1,17 @@
 {
-  "instance_methods": [],
-  "version": "v1.4.0",
-  "name": "HasTol",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "setTol"
     },
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "getTol"
     }
-  ]
+  ],
+  "version": "v1.4.0",
+  "name": "HasTol",
+  "class_methods": []
 }

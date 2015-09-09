@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.4.0", "name": "ALSModel", "class_methods": []}
+{"instance_methods": [{"version": "v1.4.0", "type": "property", "name": "itemFactors"}, {"version": "v1.4.0", "type": "property", "name": "userFactors"}, {"version": "v1.4.0", "type": "property", "name": "rank"}], "version": "v1.4.0", "name": "ALSModel", "class_methods": []}

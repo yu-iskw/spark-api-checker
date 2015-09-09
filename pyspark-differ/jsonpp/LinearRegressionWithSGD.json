@@ -5,6 +5,7 @@
   "class_methods": [
     {
       "version": "v0.9.1",
+      "type": "instancemethod",
       "name": "train"
     }
   ]

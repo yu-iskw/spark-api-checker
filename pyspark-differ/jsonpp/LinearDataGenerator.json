@@ -5,10 +5,12 @@
   "class_methods": [
     {
       "version": "master",
+      "type": "function",
       "name": "generateLinearInput"
     },
     {
       "version": "master",
+      "type": "function",
       "name": "generateLinearRDD"
     }
   ]

@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "master", "name": "TreeEnsembleModels", "class_methods": []}
+{"instance_methods": [{"version": "master", "type": "property", "name": "treeWeights"}], "version": "master", "name": "TreeEnsembleModels", "class_methods": []}

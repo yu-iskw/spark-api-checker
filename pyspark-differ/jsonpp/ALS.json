@@ -5,14 +5,17 @@
   "class_methods": [
     {
       "version": "v1.0.0",
+      "type": "instancemethod",
       "name": "trainImplicit"
     },
     {
       "version": "v1.0.0",
+      "type": "instancemethod",
       "name": "train"
     },
     {
       "version": "v1.2.0",
+      "type": "instancemethod",
       "name": "_prepare"
     }
   ]

@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "master", "name": "LDA", "class_methods": [{"version": "master", "name": "train"}]}
+{"instance_methods": [], "version": "master", "name": "LDA", "class_methods": [{"version": "master", "type": "instancemethod", "name": "train"}]}

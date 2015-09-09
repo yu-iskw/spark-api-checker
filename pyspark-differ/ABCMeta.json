@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.3.0", "name": "ABCMeta", "class_methods": [{"version": "v1.3.0", "name": "register"}, {"version": "v1.3.0", "name": "_dump_registry"}]}
+{"instance_methods": [{"version": "v1.3.0", "type": "instancemethod", "name": "register"}, {"version": "v1.3.0", "type": "instancemethod", "name": "_dump_registry"}], "version": "v1.3.0", "name": "ABCMeta", "class_methods": []}

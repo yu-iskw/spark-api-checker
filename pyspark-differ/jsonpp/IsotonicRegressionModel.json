@@ -1,19 +1,23 @@
 {
-  "instance_methods": [],
+  "instance_methods": [
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "predict"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "save"
+    }
+  ],
   "version": "v1.4.0",
   "name": "IsotonicRegressionModel",
   "class_methods": [
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "load"
-    },
-    {
-      "version": "v1.4.0",
-      "name": "predict"
-    },
-    {
-      "version": "v1.4.0",
-      "name": "save"
     }
   ]
 }

@@ -5,14 +5,17 @@
   "class_methods": [
     {
       "version": "v1.2.0",
+      "type": "instancemethod",
       "name": "trainRegressor"
     },
     {
       "version": "v1.2.0",
+      "type": "instancemethod",
       "name": "_train"
     },
     {
       "version": "v1.2.0",
+      "type": "instancemethod",
       "name": "trainClassifier"
     }
   ]

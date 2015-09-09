@@ -1,15 +1,23 @@
 {
-  "instance_methods": [],
+  "instance_methods": [
+    {
+      "version": "master",
+      "type": "instancemethod",
+      "name": "assignments"
+    },
+    {
+      "version": "master",
+      "type": "property",
+      "name": "k"
+    }
+  ],
   "version": "master",
   "name": "PowerIterationClusteringModel",
   "class_methods": [
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "load"
-    },
-    {
-      "version": "master",
-      "name": "assignments"
     }
   ]
 }

@@ -1,19 +1,52 @@
 {
-  "instance_methods": [],
-  "version": "v1.4.0",
-  "name": "MultilabelMetrics",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.4.0",
-      "name": "f1Measure"
+      "type": "property",
+      "name": "microRecall"
     },
     {
       "version": "v1.4.0",
+      "type": "property",
+      "name": "microF1Measure"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "recall"
     },
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "precision"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "f1Measure"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "property",
+      "name": "microPrecision"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "property",
+      "name": "hammingLoss"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "property",
+      "name": "subsetAccuracy"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "property",
+      "name": "accuracy"
     }
-  ]
+  ],
+  "version": "v1.4.0",
+  "name": "MultilabelMetrics",
+  "class_methods": []
 }

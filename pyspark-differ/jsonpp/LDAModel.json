@@ -1,23 +1,28 @@
 {
-  "instance_methods": [],
+  "instance_methods": [
+    {
+      "version": "master",
+      "type": "instancemethod",
+      "name": "save"
+    },
+    {
+      "version": "master",
+      "type": "instancemethod",
+      "name": "vocabSize"
+    },
+    {
+      "version": "master",
+      "type": "instancemethod",
+      "name": "topicsMatrix"
+    }
+  ],
   "version": "master",
   "name": "LDAModel",
   "class_methods": [
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "load"
-    },
-    {
-      "version": "master",
-      "name": "save"
-    },
-    {
-      "version": "master",
-      "name": "vocabSize"
-    },
-    {
-      "version": "master",
-      "name": "topicsMatrix"
     }
   ]
 }

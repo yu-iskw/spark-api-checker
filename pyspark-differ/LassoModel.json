@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v0.9.1", "name": "LassoModel", "class_methods": [{"version": "v1.4.0", "name": "load"}, {"version": "v1.4.0", "name": "save"}]}
+{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "save"}], "version": "v0.9.1", "name": "LassoModel", "class_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "load"}]}

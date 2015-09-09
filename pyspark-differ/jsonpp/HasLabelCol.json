@@ -1,15 +1,17 @@
 {
-  "instance_methods": [],
-  "version": "v1.3.0",
-  "name": "HasLabelCol",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.3.0",
+      "type": "instancemethod",
       "name": "getLabelCol"
     },
     {
       "version": "v1.3.0",
+      "type": "instancemethod",
       "name": "setLabelCol"
     }
-  ]
+  ],
+  "version": "v1.3.0",
+  "name": "HasLabelCol",
+  "class_methods": []
 }

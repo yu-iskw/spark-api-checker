@@ -1,15 +1,17 @@
 {
-  "instance_methods": [],
-  "version": "master",
-  "name": "StreamingLinearRegressionWithSGD",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "setInitialWeights"
     },
     {
       "version": "master",
+      "type": "instancemethod",
       "name": "trainOn"
     }
-  ]
+  ],
+  "version": "master",
+  "name": "StreamingLinearRegressionWithSGD",
+  "class_methods": []
 }

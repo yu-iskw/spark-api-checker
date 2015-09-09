@@ -1,15 +1,17 @@
 {
-  "instance_methods": [],
-  "version": "v1.4.0",
-  "name": "HasNumFeatures",
-  "class_methods": [
+  "instance_methods": [
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "setNumFeatures"
     },
     {
       "version": "v1.4.0",
+      "type": "instancemethod",
       "name": "getNumFeatures"
     }
-  ]
+  ],
+  "version": "v1.4.0",
+  "name": "HasNumFeatures",
+  "class_methods": []
 }

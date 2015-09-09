@@ -5,30 +5,37 @@
   "class_methods": [
     {
       "version": "v1.0.0",
+      "type": "function",
       "name": "_parse_libsvm_line"
     },
     {
       "version": "v1.1.0",
+      "type": "function",
       "name": "loadLabeledPoints"
     },
     {
       "version": "master",
+      "type": "function",
       "name": "loadVectors"
     },
     {
       "version": "master",
+      "type": "function",
       "name": "appendBias"
     },
     {
       "version": "v1.0.0",
+      "type": "function",
       "name": "saveAsLibSVMFile"
     },
     {
       "version": "v1.0.0",
+      "type": "function",
       "name": "_convert_labeled_point_to_libsvm"
     },
     {
       "version": "v1.0.0",
+      "type": "function",
       "name": "loadLibSVMFile"
     }
   ]
