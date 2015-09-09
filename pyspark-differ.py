@@ -78,15 +78,24 @@ class Klass():
         if self._name != other._name:
             raise Exception(self_name + "is different from " + other._name)
         versions = sort_version([self._version, other._version])
-        self._version = versions[0]
+        merged = Klass(self._name, versions[0])
         # class methods
         for m in self._class_methods:
+            print(other.expand())
             if other.has_class_method(m._name):
-                m.merge(other.get_class_method(m._name))
+                x = m.merge(other.get_class_method(m._name))
+            else:
+                x = m
+            merged._class_methods.append(x)
+        # instance methods
         for m in self._instance_methods:
+            print(other.expand())
             if other.has_instance_method(m._name):
-                m.merge(other.get_instance_method(m._name))
-        return self
+                x = m.merge(other.get_instance_method(m._name))
+            else:
+                x = m
+            merged._instance_methods.append(x)
+        return merged
 
     def has_class_method(self, name):
         return name in [m._name for m in self._class_methods]
@@ -129,8 +138,8 @@ class Method():
         if self._name != other._name:
             raise Exception(self_name + "is different from " + other._name)
         versions = sort_version([self._version, other._version])
-        self._version = versions[0]
-        return self
+        merged = Method(self._name, versions[0])
+        return merged
 
 
 packages = []
@@ -146,7 +155,7 @@ for p in package_names:
     files = [files[i] for i in range(1, len(files) - 1)] + [files[0]]
     versions = [f.replace(p + ".", "").replace(".json", "") for f in files]
     # Inspect diff
-    for i in range(0, len(versions) - 1):
+    for i in range(0, len(versions)):
         defs = load_json_as_dict(os.path.join(BASE_DIR, p, files[i]))
         for k in defs.keys():
             klass = Klass.generate(defs[k], versions[i])
@@ -161,11 +170,18 @@ for p in package_names:
 for k in klasses.keys():
     versions = klasses[k]
     if "master" in versions:
+        print(k)
+        print(versions)
         rev = sort_version(versions, desc = True)
         master_key = k + ":::" + rev[0]
         merged = Klass.singletons[master_key]
-        for i in range(1, len(rev) - 1):
+        for i in range(1, len(rev)):
             other_key = k + ":::" + rev[i]
             other = Klass.singletons[other_key]
             merged = merged.merge(other)
+
+        # Write JSON to a file
+        path = os.path.join("pyspark-differ", k + ".json")
+        with open(path, "w") as f:
+            f.write(json.dumps(merged.expand()))
         print(json.dumps(merged.expand()))
