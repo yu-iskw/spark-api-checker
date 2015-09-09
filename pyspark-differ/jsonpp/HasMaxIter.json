@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "v1.3.0",
+  "name": "HasMaxIter",
+  "class_methods": [
+    {
+      "version": "v1.3.0",
+      "name": "setMaxIter"
+    },
+    {
+      "version": "v1.3.0",
+      "name": "getMaxIter"
+    }
+  ]
+}

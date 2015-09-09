@@ -1,0 +1,23 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "LinearRegression",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "setParams"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "_create_model"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getElasticNetParam"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setElasticNetParam"
+    }
+  ]
+}

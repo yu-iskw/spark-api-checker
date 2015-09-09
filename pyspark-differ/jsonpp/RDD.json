@@ -1,0 +1,423 @@
+{
+  "instance_methods": [],
+  "version": "v0.9.1",
+  "name": "RDD",
+  "class_methods": [
+    {
+      "version": "v1.2.0",
+      "name": "_to_java_object_rdd"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "_memory_limit"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "sortByKey"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "mapPartitionsWithIndex"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "foreachPartition"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "_reserialize"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "persist"
+    },
+    {
+      "version": "v1.3.0",
+      "name": "isEmpty"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "mapPartitionsWithSplit"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "foreach"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "flatMap"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "repartitionAndSortWithinPartitions"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "intersection"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "partitionBy"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "name"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "collect"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "saveAsPickleFile"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "saveAsSequenceFile"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "getNumPartitions"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "mean"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "getStorageLevel"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "saveAsNewAPIHadoopDataset"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "reduce"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "countByKey"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "aggregateByKey"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "groupBy"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "getCheckpointFile"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "stats"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "fullOuterJoin"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "sum"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "reduceByKeyLocally"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "rightOuterJoin"
+    },
+    {
+      "version": "v0.9.2",
+      "name": "takeOrdered"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "collectAsMap"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "_can_spill"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "meanApprox"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "stdev"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "subtract"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "subtractByKey"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "saveAsTextFile"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "filter"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "union"
+    },
+    {
+      "version": "v1.3.0",
+      "name": "treeReduce"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "variance"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "saveAsHadoopFile"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "sampleByKey"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "first"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "combineByKey"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "cache"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "saveAsNewAPIHadoopFile"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "groupWith"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "cartesian"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "zip"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "reduceByKey"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "distinct"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "top"
+    },
+    {
+      "version": "v1.3.0",
+      "name": "toLocalIterator"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "checkpoint"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "coalesce"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "leftOuterJoin"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "mapPartitions"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "saveAsHadoopDataset"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "setName"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "repartition"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "toDebugString"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "keyBy"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "histogram"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "sumApprox"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "sortBy"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "sampleStdev"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "count"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "foldByKey"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "join"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "fold"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "unpersist"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "_defaultReducePartitions"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "values"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "countApprox"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "sampleVariance"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "countApproxDistinct"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "_pickled"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "zipWithIndex"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "randomSplit"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "groupByKey"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "sample"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "isCheckpointed"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "id"
+    },
+    {
+      "version": "v1.3.0",
+      "name": "treeAggregate"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "min"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "_computeFractionForSampleSize"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "countByValue"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "lookup"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "take"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "flatMapValues"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "map"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "glom"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "keys"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "takeSample"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "cogroup"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "aggregate"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "max"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "zipWithUniqueId"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "mapValues"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "pipe"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "instance_methods": [],
+  "version": "v1.1.0",
+  "name": "KMeansModel",
+  "class_methods": [
+    {
+      "version": "master",
+      "name": "load"
+    },
+    {
+      "version": "v1.1.0",
+      "name": "predict"
+    },
+    {
+      "version": "master",
+      "name": "save"
+    },
+    {
+      "version": "master",
+      "name": "computeCost"
+    }
+  ]
+}

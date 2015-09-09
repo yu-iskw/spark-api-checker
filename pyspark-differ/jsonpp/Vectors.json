@@ -1,0 +1,35 @@
+{
+  "instance_methods": [],
+  "version": "v1.0.0",
+  "name": "Vectors",
+  "class_methods": [
+    {
+      "version": "v1.1.0",
+      "name": "stringify"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "dense"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "parse"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "zeros"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "sparse"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "squared_distance"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "norm"
+    }
+  ]
+}

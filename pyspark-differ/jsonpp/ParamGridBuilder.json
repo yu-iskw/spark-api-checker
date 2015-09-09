@@ -1,0 +1,19 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "ParamGridBuilder",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "addGrid"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "build"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "baseOn"
+    }
+  ]
+}

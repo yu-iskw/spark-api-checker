@@ -1,0 +1,19 @@
+{
+  "instance_methods": [],
+  "version": "v1.3.0",
+  "name": "JavaLoader",
+  "class_methods": [
+    {
+      "version": "v1.3.0",
+      "name": "load"
+    },
+    {
+      "version": "v1.3.0",
+      "name": "_java_loader_class"
+    },
+    {
+      "version": "v1.3.0",
+      "name": "_load_java"
+    }
+  ]
+}

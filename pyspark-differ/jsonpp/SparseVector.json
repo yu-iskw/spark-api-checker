@@ -1,0 +1,31 @@
+{
+  "instance_methods": [],
+  "version": "v1.0.0",
+  "name": "SparseVector",
+  "class_methods": [
+    {
+      "version": "v1.1.0",
+      "name": "toArray"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "parse"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "dot"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "squared_distance"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "numNonzeros"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "norm"
+    }
+  ]
+}

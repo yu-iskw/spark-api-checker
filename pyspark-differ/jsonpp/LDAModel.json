@@ -1,0 +1,23 @@
+{
+  "instance_methods": [],
+  "version": "master",
+  "name": "LDAModel",
+  "class_methods": [
+    {
+      "version": "master",
+      "name": "load"
+    },
+    {
+      "version": "master",
+      "name": "save"
+    },
+    {
+      "version": "master",
+      "name": "vocabSize"
+    },
+    {
+      "version": "master",
+      "name": "topicsMatrix"
+    }
+  ]
+}

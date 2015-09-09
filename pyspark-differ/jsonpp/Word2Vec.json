@@ -1,0 +1,35 @@
+{
+  "instance_methods": [],
+  "version": "v1.2.0",
+  "name": "Word2Vec",
+  "class_methods": [
+    {
+      "version": "v1.2.0",
+      "name": "fit"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "setSeed"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "setNumPartitions"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "setLearningRate"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setMinCount"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "setNumIterations"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "setVectorSize"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "DecisionTreeClassifier",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "getImpurity"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setParams"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "_create_model"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setImpurity"
+    }
+  ]
+}

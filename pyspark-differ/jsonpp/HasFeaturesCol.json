@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "v1.3.0",
+  "name": "HasFeaturesCol",
+  "class_methods": [
+    {
+      "version": "v1.3.0",
+      "name": "setFeaturesCol"
+    },
+    {
+      "version": "v1.3.0",
+      "name": "getFeaturesCol"
+    }
+  ]
+}

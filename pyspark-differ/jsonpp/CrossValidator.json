@@ -1,0 +1,51 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "CrossValidator",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "getEstimator"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getEvaluator"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "copy"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getNumFolds"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setEstimator"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setNumFolds"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "_fit"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setEstimatorParamMaps"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setParams"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getEstimatorParamMaps"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setEvaluator"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "RankingMetrics",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "precisionAt"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "ndcgAt"
+    }
+  ]
+}

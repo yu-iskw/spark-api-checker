@@ -1,0 +1,55 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "DecisionTreeParams",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "setMaxMemoryInMB"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getMinInfoGain"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setMaxBins"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getMinInstancesPerNode"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getMaxBins"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setMaxDepth"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setMinInstancesPerNode"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setCacheNodeIds"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getMaxDepth"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getMaxMemoryInMB"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getCacheNodeIds"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setMinInfoGain"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "instance_methods": [],
+  "version": "v1.2.0",
+  "name": "RandomForest",
+  "class_methods": [
+    {
+      "version": "v1.2.0",
+      "name": "trainRegressor"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "_train"
+    },
+    {
+      "version": "v1.2.0",
+      "name": "trainClassifier"
+    }
+  ]
+}

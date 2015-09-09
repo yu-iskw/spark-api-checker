@@ -1,0 +1,35 @@
+{
+  "instance_methods": [],
+  "version": "v1.0.0",
+  "name": "MLUtils",
+  "class_methods": [
+    {
+      "version": "v1.0.0",
+      "name": "_parse_libsvm_line"
+    },
+    {
+      "version": "v1.1.0",
+      "name": "loadLabeledPoints"
+    },
+    {
+      "version": "master",
+      "name": "loadVectors"
+    },
+    {
+      "version": "master",
+      "name": "appendBias"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "saveAsLibSVMFile"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "_convert_labeled_point_to_libsvm"
+    },
+    {
+      "version": "v1.0.0",
+      "name": "loadLibSVMFile"
+    }
+  ]
+}

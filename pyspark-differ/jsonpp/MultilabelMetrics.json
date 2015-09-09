@@ -1,0 +1,19 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "MultilabelMetrics",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "f1Measure"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "recall"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "precision"
+    }
+  ]
+}

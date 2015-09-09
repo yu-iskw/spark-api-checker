@@ -1,0 +1,11 @@
+{
+  "instance_methods": [],
+  "version": "master",
+  "name": "PowerIterationClustering",
+  "class_methods": [
+    {
+      "version": "master",
+      "name": "train"
+    }
+  ]
+}

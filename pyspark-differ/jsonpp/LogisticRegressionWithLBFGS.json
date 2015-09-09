@@ -1,0 +1,11 @@
+{
+  "instance_methods": [],
+  "version": "v1.2.0",
+  "name": "LogisticRegressionWithLBFGS",
+  "class_methods": [
+    {
+      "version": "v1.2.0",
+      "name": "train"
+    }
+  ]
+}

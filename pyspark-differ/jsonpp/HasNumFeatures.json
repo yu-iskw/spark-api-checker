@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "HasNumFeatures",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "setNumFeatures"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getNumFeatures"
+    }
+  ]
+}

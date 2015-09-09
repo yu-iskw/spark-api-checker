@@ -1,0 +1,11 @@
+{
+  "instance_methods": [],
+  "version": "v0.9.1",
+  "name": "LinearRegressionModelBase",
+  "class_methods": [
+    {
+      "version": "v0.9.1",
+      "name": "predict"
+    }
+  ]
+}

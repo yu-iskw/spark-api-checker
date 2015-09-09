@@ -1,0 +1,11 @@
+{
+  "instance_methods": [],
+  "version": "v1.2.0",
+  "name": "IDF",
+  "class_methods": [
+    {
+      "version": "v1.2.0",
+      "name": "fit"
+    }
+  ]
+}

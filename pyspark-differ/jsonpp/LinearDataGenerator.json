@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "master",
+  "name": "LinearDataGenerator",
+  "class_methods": [
+    {
+      "version": "master",
+      "name": "generateLinearInput"
+    },
+    {
+      "version": "master",
+      "name": "generateLinearRDD"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "HasProbabilityCol",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "getProbabilityCol"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setProbabilityCol"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "HasCheckpointInterval",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "getCheckpointInterval"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "setCheckpointInterval"
+    }
+  ]
+}

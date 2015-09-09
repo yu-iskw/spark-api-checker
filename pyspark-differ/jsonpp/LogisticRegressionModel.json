@@ -1,0 +1,19 @@
+{
+  "instance_methods": [],
+  "version": "v0.9.1",
+  "name": "LogisticRegressionModel",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "load"
+    },
+    {
+      "version": "v0.9.1",
+      "name": "predict"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "save"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "HasInputCol",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "setInputCol"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getInputCol"
+    }
+  ]
+}

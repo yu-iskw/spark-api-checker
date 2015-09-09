@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "master",
+  "name": "StreamingLogisticRegressionWithSGD",
+  "class_methods": [
+    {
+      "version": "master",
+      "name": "setInitialWeights"
+    },
+    {
+      "version": "master",
+      "name": "trainOn"
+    }
+  ]
+}

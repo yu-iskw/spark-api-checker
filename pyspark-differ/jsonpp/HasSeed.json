@@ -1,0 +1,15 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "HasSeed",
+  "class_methods": [
+    {
+      "version": "v1.4.0",
+      "name": "setSeed"
+    },
+    {
+      "version": "v1.4.0",
+      "name": "getSeed"
+    }
+  ]
+}
