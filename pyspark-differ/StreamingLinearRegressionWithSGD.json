@@ -1,0 +1,1 @@
+{"instance_methods": [], "version": "master", "name": "StreamingLinearRegressionWithSGD", "class_methods": [{"version": "master", "name": "setInitialWeights"}, {"version": "master", "name": "trainOn"}]}

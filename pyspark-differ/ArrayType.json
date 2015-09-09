@@ -1,0 +1,1 @@
+{"instance_methods": [], "version": "v1.4.0", "name": "ArrayType", "class_methods": [{"version": "v1.4.0", "name": "jsonValue"}, {"version": "master", "name": "needConversion"}, {"version": "v1.4.0", "name": "simpleString"}, {"version": "master", "name": "toInternal"}, {"version": "master", "name": "fromInternal"}, {"version": "v1.4.0", "name": "fromJson"}]}

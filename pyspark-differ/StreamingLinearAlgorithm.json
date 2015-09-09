@@ -1,0 +1,1 @@
+{"instance_methods": [], "version": "master", "name": "StreamingLinearAlgorithm", "class_methods": [{"version": "master", "name": "_validate"}, {"version": "master", "name": "predictOn"}, {"version": "master", "name": "latestModel"}, {"version": "master", "name": "predictOnValues"}]}

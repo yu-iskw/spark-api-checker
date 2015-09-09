@@ -3,6 +3,28 @@ import pkgutil
 import inspect
 import json
 import re
+import types
+
+def get_method_info(method):
+    dict = {}
+    argspec, _, _, _ = inspect.getargspec(method)
+    dict["name"] = method_name
+    dict["argspec"] = argspec
+    return dict
+
+def is_instance_method(klass, method_name):
+    if str(type(klass.__dict__[method_name])) == "<type 'instancemethod'>":
+        return True
+    else:
+        return False
+
+def is_class_method(klass, method_name):
+    if str(type(klass.__dict__[method_name])) == "<type 'staticmethod'>" or \
+            str(type(klass.__dict__[method_name])) == "<type 'classmethod'>" or \
+            str(type(klass.__dict__[method_name])) == "<type 'function'>":
+        return True
+    else:
+        return False
 
 module_name = sys.argv[1]
 __import__(module_name)
@@ -19,21 +41,18 @@ for c, _ in inspect.getmembers(module, predicate=inspect.isclass):
     definitions[c]["name"] = c
     ## class methods
     definitions[c]["class_methods"] = {}
-    methods = inspect.getmembers(klass, predicate=inspect.ismethod)
-    for method_name, _ in methods:
-        method = getattr(klass, method_name)
-        argspec, _, _, _ = inspect.getargspec(method)
-        definitions[c]["class_methods"][method_name] = {}
-        definitions[c]["class_methods"][method_name]["name"] = method_name
-        definitions[c]["class_methods"][method_name]["argspec"] = argspec
-    ## instance methods
     definitions[c]["instance_methods"] = {}
-    methods = inspect.getmembers(klass, predicate=inspect.isfunction)
-    for method_name, _ in methods:
+    methods = inspect.getmembers(klass, predicate=inspect.ismethod)
+    functions = inspect.getmembers(klass, predicate=inspect.isfunction)
+    methods = filter(lambda x: not re.match("^__.*__$", str(x)), klass.__dict__.keys())
+    for method_name in methods:
         method = getattr(klass, method_name)
-        argspec, _, _, _ = inspect.getargspec(method)
-        definitions[c]["instance_methods"][method_name] = {}
-        definitions[c]["instance_methods"][method_name]["name"] = method_name
-        definitions[c]["instance_methods"][method_name]["argspec"] = argspec
+        if is_instance_method(klass, method_name):
+            method_info = get_method_info(method)
+            definitions[c]["instance_methods"][method_name] = method_info
+        elif is_class_method(klass, method_name):
+            method_info = get_method_info(method)
+            definitions[c]["class_methods"][method_name] = method_info
+
 
 print(json.dumps(definitions))

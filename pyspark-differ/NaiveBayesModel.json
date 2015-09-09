@@ -1,0 +1,1 @@
+{"instance_methods": [], "version": "master", "name": "NaiveBayesModel", "class_methods": [{"version": "master", "name": "load"}, {"version": "master", "name": "predict"}, {"version": "master", "name": "save"}]}

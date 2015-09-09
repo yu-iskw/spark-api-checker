@@ -81,7 +81,6 @@ class Klass():
         merged = Klass(self._name, versions[0])
         # class methods
         for m in self._class_methods:
-            print(other.expand())
             if other.has_class_method(m._name):
                 x = m.merge(other.get_class_method(m._name))
             else:
@@ -89,7 +88,6 @@ class Klass():
             merged._class_methods.append(x)
         # instance methods
         for m in self._instance_methods:
-            print(other.expand())
             if other.has_instance_method(m._name):
                 x = m.merge(other.get_instance_method(m._name))
             else:
@@ -170,14 +168,14 @@ for p in package_names:
 for k in klasses.keys():
     versions = klasses[k]
     if "master" in versions:
-        print(k)
-        print(versions)
         rev = sort_version(versions, desc = True)
         master_key = k + ":::" + rev[0]
         merged = Klass.singletons[master_key]
         for i in range(1, len(rev)):
             other_key = k + ":::" + rev[i]
             other = Klass.singletons[other_key]
+            print(other_key)
+            print(other.expand())
             merged = merged.merge(other)
 
         # Write JSON to a file
