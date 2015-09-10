@@ -1,0 +1,12 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.3.0",
+      "type": "instancemethod",
+      "name": "save"
+    }
+  ],
+  "version": "v1.3.0",
+  "name": "pyspark.mllib.recommendation.JavaSaveable",
+  "class_methods": []
+}

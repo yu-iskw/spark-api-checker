@@ -1,0 +1,1 @@
+{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "setSeed"}, {"version": "v1.4.0", "type": "instancemethod", "name": "getSeed"}], "version": "v1.4.0", "name": "pyspark.ml.recommendation.HasSeed", "class_methods": []}

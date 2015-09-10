@@ -1,0 +1,47 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "getK"
+    },
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "_create_model"
+    },
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "setInitMode"
+    },
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "setK"
+    },
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "getInitSteps"
+    },
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "setParams"
+    },
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "getInitMode"
+    },
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "setInitSteps"
+    }
+  ],
+  "version": "v1.5.0-rc1",
+  "name": "pyspark.ml.clustering.KMeans",
+  "class_methods": []
+}

@@ -1,1 +1,0 @@
-{"instance_methods": [{"version": "v1.3.0", "type": "instancemethod", "name": "setFeaturesCol"}, {"version": "v1.3.0", "type": "instancemethod", "name": "getFeaturesCol"}], "version": "v1.3.0", "name": "HasFeaturesCol", "class_methods": []}

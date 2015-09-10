@@ -1,0 +1,42 @@
+{
+  "instance_methods": [],
+  "version": "v1.1.0",
+  "name": "pyspark.mllib.regression.Vectors",
+  "class_methods": [
+    {
+      "version": "v1.1.0",
+      "type": "function",
+      "name": "stringify"
+    },
+    {
+      "version": "v1.1.0",
+      "type": "function",
+      "name": "dense"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "function",
+      "name": "parse"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "function",
+      "name": "zeros"
+    },
+    {
+      "version": "v1.1.0",
+      "type": "function",
+      "name": "sparse"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "function",
+      "name": "squared_distance"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "function",
+      "name": "norm"
+    }
+  ]
+}

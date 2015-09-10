@@ -1,0 +1,12 @@
+{
+  "instance_methods": [],
+  "version": "v0.9.0-incubating",
+  "name": "pyspark.mllib.clustering.KMeans",
+  "class_methods": [
+    {
+      "version": "v0.9.0-incubating",
+      "type": "instancemethod",
+      "name": "train"
+    }
+  ]
+}

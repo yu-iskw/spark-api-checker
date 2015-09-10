@@ -1,0 +1,23 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "assignments"
+    },
+    {
+      "version": "v1.5.0-rc1",
+      "type": "property",
+      "name": "k"
+    }
+  ],
+  "version": "v1.5.0-rc1",
+  "name": "pyspark.mllib.clustering.PowerIterationClusteringModel",
+  "class_methods": [
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "load"
+    }
+  ]
+}

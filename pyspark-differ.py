@@ -156,6 +156,7 @@ for p in package_names:
     versions = [f.replace(p + ".", "").replace(".json", "") for f in files]
     # Inspect diff
     for i in range(0, len(versions)):
+        print(os.path.join(BASE_DIR, p, files[i]))
         defs = load_json_as_dict(os.path.join(BASE_DIR, p, files[i]))
         for k in defs.keys():
             klass = Klass.generate(defs[k], versions[i])

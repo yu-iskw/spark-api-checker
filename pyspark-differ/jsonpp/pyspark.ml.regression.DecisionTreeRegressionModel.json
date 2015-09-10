@@ -1,0 +1,6 @@
+{
+  "instance_methods": [],
+  "version": "v1.4.0",
+  "name": "pyspark.ml.regression.DecisionTreeRegressionModel",
+  "class_methods": []
+}

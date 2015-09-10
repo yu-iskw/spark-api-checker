@@ -1,0 +1,12 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "save"
+    }
+  ],
+  "version": "v1.4.0",
+  "name": "pyspark.mllib.regression.Saveable",
+  "class_methods": []
+}

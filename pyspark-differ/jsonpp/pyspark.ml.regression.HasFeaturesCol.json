@@ -1,0 +1,17 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setFeaturesCol"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getFeaturesCol"
+    }
+  ],
+  "version": "v1.4.0",
+  "name": "pyspark.ml.regression.HasFeaturesCol",
+  "class_methods": []
+}

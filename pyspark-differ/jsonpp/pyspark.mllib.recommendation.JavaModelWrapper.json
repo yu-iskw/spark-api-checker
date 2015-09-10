@@ -1,0 +1,12 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.2.0",
+      "type": "instancemethod",
+      "name": "call"
+    }
+  ],
+  "version": "v1.2.0",
+  "name": "pyspark.mllib.recommendation.JavaModelWrapper",
+  "class_methods": []
+}

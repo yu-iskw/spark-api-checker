@@ -1,0 +1,17 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "getLabelCol"
+    },
+    {
+      "version": "v1.5.0-rc1",
+      "type": "instancemethod",
+      "name": "setLabelCol"
+    }
+  ],
+  "version": "v1.5.0-rc1",
+  "name": "pyspark.ml.clustering.HasLabelCol",
+  "class_methods": []
+}

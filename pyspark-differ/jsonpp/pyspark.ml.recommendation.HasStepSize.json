@@ -1,0 +1,17 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setStepSize"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getStepSize"
+    }
+  ],
+  "version": "v1.4.0",
+  "name": "pyspark.ml.recommendation.HasStepSize",
+  "class_methods": []
+}

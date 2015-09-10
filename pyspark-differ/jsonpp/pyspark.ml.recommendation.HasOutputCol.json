@@ -1,0 +1,17 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getOutputCol"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setOutputCol"
+    }
+  ],
+  "version": "v1.4.0",
+  "name": "pyspark.ml.recommendation.HasOutputCol",
+  "class_methods": []
+}

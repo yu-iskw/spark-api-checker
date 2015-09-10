@@ -1,0 +1,112 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setUserCol"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "_create_model"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getNonnegative"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setRatingCol"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setImplicitPrefs"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setNonnegative"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getUserCol"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setRank"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getRatingCol"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getImplicitPrefs"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getRank"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getNumUserBlocks"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setAlpha"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setNumItemBlocks"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setItemCol"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getAlpha"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setNumUserBlocks"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setParams"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getItemCol"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "getNumItemBlocks"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "setNumBlocks"
+    }
+  ],
+  "version": "v1.4.0",
+  "name": "pyspark.ml.recommendation.ALS",
+  "class_methods": []
+}

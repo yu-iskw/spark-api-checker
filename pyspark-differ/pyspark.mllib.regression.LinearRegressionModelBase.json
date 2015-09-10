@@ -1,0 +1,1 @@
+{"instance_methods": [{"version": "v0.9.0-incubating", "type": "instancemethod", "name": "predict"}], "version": "v0.9.0-incubating", "name": "pyspark.mllib.regression.LinearRegressionModelBase", "class_methods": []}

@@ -1,1 +1,0 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "precisionAt"}, {"version": "v1.4.0", "type": "property", "name": "meanAveragePrecision"}, {"version": "v1.4.0", "type": "instancemethod", "name": "ndcgAt"}], "version": "v1.4.0", "name": "RankingMetrics", "class_methods": []}

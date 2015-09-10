@@ -1,0 +1,1 @@
+{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "setInputCol"}, {"version": "v1.4.0", "type": "instancemethod", "name": "getInputCol"}], "version": "v1.4.0", "name": "pyspark.ml.regression.HasInputCol", "class_methods": []}

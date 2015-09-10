@@ -1,0 +1,17 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.3.0",
+      "type": "instancemethod",
+      "name": "setPredictionCol"
+    },
+    {
+      "version": "v1.3.0",
+      "type": "instancemethod",
+      "name": "getPredictionCol"
+    }
+  ],
+  "version": "v1.3.0",
+  "name": "pyspark.ml.classification.HasPredictionCol",
+  "class_methods": []
+}

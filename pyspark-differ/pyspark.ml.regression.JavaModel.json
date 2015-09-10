@@ -1,0 +1,1 @@
+{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "copy"}, {"version": "v1.4.0", "type": "instancemethod", "name": "_call_java"}], "version": "v1.4.0", "name": "pyspark.ml.regression.JavaModel", "class_methods": []}

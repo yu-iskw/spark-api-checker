@@ -47,7 +47,7 @@ for c, _ in inspect.getmembers(module, predicate=inspect.isclass):
     definitions[c] = {}
     klass = getattr(module, c)
     ## name
-    definitions[c]["name"] = c
+    definitions[c]["name"] = module_name + "."  + c
     ## class methods
     definitions[c]["class_methods"] = {}
     definitions[c]["instance_methods"] = {}

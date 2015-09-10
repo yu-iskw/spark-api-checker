@@ -1,0 +1,22 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "_fit"
+    },
+    {
+      "version": "v1.3.0",
+      "type": "instancemethod",
+      "name": "_fit_java"
+    },
+    {
+      "version": "v1.3.0",
+      "type": "instancemethod",
+      "name": "_create_model"
+    }
+  ],
+  "version": "v1.3.0",
+  "name": "pyspark.ml.classification.JavaEstimator",
+  "class_methods": []
+}

@@ -1,0 +1,22 @@
+{
+  "instance_methods": [],
+  "version": "v0.9.0-incubating",
+  "name": "pyspark.mllib.recommendation.ALS",
+  "class_methods": [
+    {
+      "version": "v0.9.0-incubating",
+      "type": "instancemethod",
+      "name": "trainImplicit"
+    },
+    {
+      "version": "v0.9.0-incubating",
+      "type": "instancemethod",
+      "name": "train"
+    },
+    {
+      "version": "v1.2.0",
+      "type": "instancemethod",
+      "name": "_prepare"
+    }
+  ]
+}

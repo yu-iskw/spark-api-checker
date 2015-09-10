@@ -1,0 +1,1 @@
+{"instance_methods": [{"version": "v1.5.0-rc1", "type": "instancemethod", "name": "setInputCols"}, {"version": "v1.5.0-rc1", "type": "instancemethod", "name": "getInputCols"}], "version": "v1.5.0-rc1", "name": "pyspark.ml.clustering.HasInputCols", "class_methods": []}

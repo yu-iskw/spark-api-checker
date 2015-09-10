@@ -1,0 +1,22 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "unpersist"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "property",
+      "name": "areaUnderPR"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "property",
+      "name": "areaUnderROC"
+    }
+  ],
+  "version": "v1.4.0",
+  "name": "pyspark.mllib.evaluation.BinaryClassificationMetrics",
+  "class_methods": []
+}

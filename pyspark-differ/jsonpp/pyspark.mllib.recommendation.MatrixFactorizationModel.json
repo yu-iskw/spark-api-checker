@@ -1,0 +1,48 @@
+{
+  "instance_methods": [
+    {
+      "version": "v0.9.0-incubating",
+      "type": "instancemethod",
+      "name": "predict"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "property",
+      "name": "rank"
+    },
+    {
+      "version": "v1.2.0",
+      "type": "instancemethod",
+      "name": "productFeatures"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "recommendUsers"
+    },
+    {
+      "version": "v1.2.0",
+      "type": "instancemethod",
+      "name": "userFeatures"
+    },
+    {
+      "version": "v1.4.0",
+      "type": "instancemethod",
+      "name": "recommendProducts"
+    },
+    {
+      "version": "v0.9.0-incubating",
+      "type": "instancemethod",
+      "name": "predictAll"
+    }
+  ],
+  "version": "v0.9.0-incubating",
+  "name": "pyspark.mllib.recommendation.MatrixFactorizationModel",
+  "class_methods": [
+    {
+      "version": "v1.3.1",
+      "type": "instancemethod",
+      "name": "load"
+    }
+  ]
+}

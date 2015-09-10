@@ -1,0 +1,17 @@
+{
+  "instance_methods": [
+    {
+      "version": "v1.3.0",
+      "type": "instancemethod",
+      "name": "setMaxIter"
+    },
+    {
+      "version": "v1.3.0",
+      "type": "instancemethod",
+      "name": "getMaxIter"
+    }
+  ],
+  "version": "v1.3.0",
+  "name": "pyspark.ml.classification.HasMaxIter",
+  "class_methods": []
+}

@@ -1,1 +1,0 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "property", "name": "threshold"}, {"version": "v1.4.0", "type": "instancemethod", "name": "predict"}, {"version": "v1.4.0", "type": "instancemethod", "name": "setThreshold"}, {"version": "v1.4.0", "type": "instancemethod", "name": "clearThreshold"}], "version": "v1.4.0", "name": "LinearClassificationModel", "class_methods": []}
