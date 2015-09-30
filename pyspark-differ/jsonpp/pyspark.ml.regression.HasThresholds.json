@@ -1,0 +1,6 @@
+{
+  "instance_methods": [],
+  "name": "pyspark.ml.regression.HasThresholds",
+  "version": "master",
+  "class_methods": []
+}

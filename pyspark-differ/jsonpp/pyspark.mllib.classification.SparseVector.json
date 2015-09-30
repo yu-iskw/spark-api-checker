@@ -1,38 +1,6 @@
 {
-  "instance_methods": [
-    {
-      "version": "v1.1.0",
-      "type": "instancemethod",
-      "name": "toArray"
-    },
-    {
-      "version": "v1.0.0",
-      "type": "instancemethod",
-      "name": "squared_distance"
-    },
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "numNonzeros"
-    },
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "norm"
-    },
-    {
-      "version": "v1.0.0",
-      "type": "instancemethod",
-      "name": "dot"
-    }
-  ],
-  "version": "v1.0.0",
+  "instance_methods": [],
   "name": "pyspark.mllib.classification.SparseVector",
-  "class_methods": [
-    {
-      "version": "v1.4.0",
-      "type": "function",
-      "name": "parse"
-    }
-  ]
+  "version": "v1.0.0",
+  "class_methods": []
 }

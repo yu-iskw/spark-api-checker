@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "idf"}, {"version": "v1.2.0", "type": "instancemethod", "name": "transform"}], "version": "v1.2.0", "name": "pyspark.mllib.feature.IDFModel", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.mllib.feature.IDFModel", "version": "v1.2.0", "class_methods": []}

@@ -1,0 +1,6 @@
+{
+  "instance_methods": [],
+  "name": "pyspark.ml.recommendation.HasThresholds",
+  "version": "master",
+  "class_methods": []
+}

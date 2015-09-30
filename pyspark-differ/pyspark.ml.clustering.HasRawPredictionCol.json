@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.5.0-rc1", "type": "instancemethod", "name": "setRawPredictionCol"}, {"version": "v1.5.0-rc1", "type": "instancemethod", "name": "getRawPredictionCol"}], "version": "v1.5.0-rc1", "name": "pyspark.ml.clustering.HasRawPredictionCol", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.ml.clustering.HasRawPredictionCol", "version": "v1.5.0", "class_methods": []}

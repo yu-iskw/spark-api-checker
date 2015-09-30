@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.4.0", "name": "pyspark.mllib.classification.Loader", "class_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "load"}]}
+{"instance_methods": [], "name": "pyspark.mllib.classification.Loader", "version": "v1.4.0", "class_methods": []}

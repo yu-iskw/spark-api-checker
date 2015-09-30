@@ -1,17 +1,6 @@
 {
-  "instance_methods": [
-    {
-      "version": "v1.5.0-rc1",
-      "type": "instancemethod",
-      "name": "setSeed"
-    },
-    {
-      "version": "v1.5.0-rc1",
-      "type": "instancemethod",
-      "name": "getSeed"
-    }
-  ],
-  "version": "v1.5.0-rc1",
+  "instance_methods": [],
   "name": "pyspark.ml.clustering.HasSeed",
+  "version": "v1.5.0",
   "class_methods": []
 }

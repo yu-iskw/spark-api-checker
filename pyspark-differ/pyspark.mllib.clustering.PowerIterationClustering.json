@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.5.0-rc1", "name": "pyspark.mllib.clustering.PowerIterationClustering", "class_methods": [{"version": "v1.5.0-rc1", "type": "instancemethod", "name": "train"}]}
+{"instance_methods": [], "name": "pyspark.mllib.clustering.PowerIterationClustering", "version": "v1.5.0", "class_methods": []}

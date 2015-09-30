@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "fit"}], "version": "v1.4.0", "name": "pyspark.mllib.feature.ChiSqSelector", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.mllib.feature.ChiSqSelector", "version": "v1.4.0", "class_methods": []}

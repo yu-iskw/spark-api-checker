@@ -1,17 +1,6 @@
 {
-  "instance_methods": [
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "getOutputCol"
-    },
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "setOutputCol"
-    }
-  ],
-  "version": "v1.4.0",
+  "instance_methods": [],
   "name": "pyspark.ml.regression.HasOutputCol",
+  "version": "v1.4.0",
   "class_methods": []
 }

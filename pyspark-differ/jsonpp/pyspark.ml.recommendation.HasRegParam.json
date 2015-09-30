@@ -1,17 +1,6 @@
 {
-  "instance_methods": [
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "setRegParam"
-    },
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "getRegParam"
-    }
-  ],
-  "version": "v1.4.0",
+  "instance_methods": [],
   "name": "pyspark.ml.recommendation.HasRegParam",
+  "version": "v1.4.0",
   "class_methods": []
 }

@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "getVectors"}, {"version": "v1.2.0", "type": "instancemethod", "name": "findSynonyms"}, {"version": "v1.2.0", "type": "instancemethod", "name": "transform"}], "version": "v1.2.0", "name": "pyspark.mllib.feature.Word2VecModel", "class_methods": [{"version": "v1.5.0-rc1", "type": "instancemethod", "name": "load"}]}
+{"instance_methods": [], "name": "pyspark.mllib.feature.Word2VecModel", "version": "v1.2.0", "class_methods": []}

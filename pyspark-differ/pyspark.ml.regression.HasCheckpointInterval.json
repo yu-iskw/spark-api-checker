@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "getCheckpointInterval"}, {"version": "v1.4.0", "type": "instancemethod", "name": "setCheckpointInterval"}], "version": "v1.4.0", "name": "pyspark.ml.regression.HasCheckpointInterval", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.ml.regression.HasCheckpointInterval", "version": "v1.4.0", "class_methods": []}

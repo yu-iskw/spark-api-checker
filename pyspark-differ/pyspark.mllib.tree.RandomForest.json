@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.2.0", "name": "pyspark.mllib.tree.RandomForest", "class_methods": [{"version": "v1.2.0", "type": "instancemethod", "name": "trainRegressor"}, {"version": "v1.2.0", "type": "instancemethod", "name": "_train"}, {"version": "v1.2.0", "type": "instancemethod", "name": "trainClassifier"}]}
+{"instance_methods": [], "name": "pyspark.mllib.tree.RandomForest", "version": "v1.2.0", "class_methods": []}

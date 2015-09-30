@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.4.0", "name": "pyspark.mllib.fpm.FPGrowth", "class_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "train"}]}
+{"instance_methods": [], "name": "pyspark.mllib.fpm.FPGrowth", "version": "v1.4.0", "class_methods": []}

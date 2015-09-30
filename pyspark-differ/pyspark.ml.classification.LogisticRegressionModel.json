@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "property", "name": "intercept"}, {"version": "v1.4.0", "type": "property", "name": "weights"}], "version": "v1.3.0", "name": "pyspark.ml.classification.LogisticRegressionModel", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.ml.classification.LogisticRegressionModel", "version": "v1.3.0", "class_methods": []}

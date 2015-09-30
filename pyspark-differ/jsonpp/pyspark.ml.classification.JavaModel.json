@@ -1,17 +1,6 @@
 {
-  "instance_methods": [
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "copy"
-    },
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "_call_java"
-    }
-  ],
-  "version": "v1.3.0",
+  "instance_methods": [],
   "name": "pyspark.ml.classification.JavaModel",
+  "version": "v1.3.0",
   "class_methods": []
 }

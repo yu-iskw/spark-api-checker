@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "setMaxIter"}, {"version": "v1.4.0", "type": "instancemethod", "name": "getMaxIter"}], "version": "v1.4.0", "name": "pyspark.ml.recommendation.HasMaxIter", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.ml.recommendation.HasMaxIter", "version": "v1.4.0", "class_methods": []}

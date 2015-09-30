@@ -1,0 +1,6 @@
+{
+  "instance_methods": [],
+  "name": "pyspark.ml.clustering.HasFitIntercept",
+  "version": "master",
+  "class_methods": []
+}

@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "getOutputCol"}, {"version": "v1.4.0", "type": "instancemethod", "name": "setOutputCol"}], "version": "v1.4.0", "name": "pyspark.ml.classification.HasOutputCol", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.ml.classification.HasOutputCol", "version": "v1.4.0", "class_methods": []}

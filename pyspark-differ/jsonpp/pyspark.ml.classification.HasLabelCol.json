@@ -1,17 +1,6 @@
 {
-  "instance_methods": [
-    {
-      "version": "v1.3.0",
-      "type": "instancemethod",
-      "name": "getLabelCol"
-    },
-    {
-      "version": "v1.3.0",
-      "type": "instancemethod",
-      "name": "setLabelCol"
-    }
-  ],
-  "version": "v1.3.0",
+  "instance_methods": [],
   "name": "pyspark.ml.classification.HasLabelCol",
+  "version": "v1.3.0",
   "class_methods": []
 }

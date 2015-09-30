@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v0.9.0-incubating", "name": "pyspark.mllib.regression.LassoWithSGD", "class_methods": [{"version": "v0.9.0-incubating", "type": "instancemethod", "name": "train"}]}
+{"instance_methods": [], "name": "pyspark.mllib.regression.LassoWithSGD", "version": "v0.9.0-incubating", "class_methods": []}

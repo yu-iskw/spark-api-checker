@@ -1,18 +1,6 @@
 {
-  "instance_methods": [
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "save"
-    }
-  ],
-  "version": "v0.9.0-incubating",
+  "instance_methods": [],
   "name": "pyspark.mllib.regression.LassoModel",
-  "class_methods": [
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "load"
-    }
-  ]
+  "version": "v0.9.0-incubating",
+  "class_methods": []
 }

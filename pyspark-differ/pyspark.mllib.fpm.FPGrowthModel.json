@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "freqItemsets"}], "version": "v1.4.0", "name": "pyspark.mllib.fpm.FPGrowthModel", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.mllib.fpm.FPGrowthModel", "version": "v1.4.0", "class_methods": []}

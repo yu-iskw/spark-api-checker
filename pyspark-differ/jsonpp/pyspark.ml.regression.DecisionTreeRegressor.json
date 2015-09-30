@@ -1,27 +1,6 @@
 {
-  "instance_methods": [
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "getImpurity"
-    },
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "setParams"
-    },
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "_create_model"
-    },
-    {
-      "version": "v1.4.0",
-      "type": "instancemethod",
-      "name": "setImpurity"
-    }
-  ],
-  "version": "v1.4.0",
+  "instance_methods": [],
   "name": "pyspark.ml.regression.DecisionTreeRegressor",
+  "version": "v1.4.0",
   "class_methods": []
 }

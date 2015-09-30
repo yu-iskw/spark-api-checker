@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.5.0-rc1", "type": "property", "name": "depth"}, {"version": "v1.5.0-rc1", "type": "property", "name": "numNodes"}], "version": "v1.5.0-rc1", "name": "pyspark.ml.regression.DecisionTreeModel", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.ml.regression.DecisionTreeModel", "version": "v1.5.0", "class_methods": []}

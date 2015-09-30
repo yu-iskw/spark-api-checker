@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.3.0", "type": "instancemethod", "name": "totalNumNodes"}, {"version": "v1.3.0", "type": "instancemethod", "name": "predict"}, {"version": "v1.3.0", "type": "instancemethod", "name": "toDebugString"}, {"version": "v1.3.0", "type": "instancemethod", "name": "numTrees"}], "version": "v1.3.0", "name": "pyspark.mllib.tree.TreeEnsembleModel", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.mllib.tree.TreeEnsembleModel", "version": "v1.3.0", "class_methods": []}

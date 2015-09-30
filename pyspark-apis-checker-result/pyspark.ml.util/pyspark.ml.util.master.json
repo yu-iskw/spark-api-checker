@@ -1,1 +1,1 @@
-{"Identifiable": {"instance_methods": {}, "name": "pyspark.ml.util.Identifiable", "class_methods": {"_randomUID": {"argspec": [], "type": "instancemethod", "name": "_randomUID"}}}}
+{"Identifiable": {"name": "pyspark.ml.util.Identifiable", "class_methods": {}, "instance_methods": {}}}

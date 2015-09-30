@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.5.0-rc1", "type": "instancemethod", "name": "copy"}, {"version": "v1.5.0-rc1", "type": "instancemethod", "name": "_call_java"}], "version": "v1.5.0-rc1", "name": "pyspark.ml.clustering.JavaModel", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.ml.clustering.JavaModel", "version": "v1.5.0", "class_methods": []}

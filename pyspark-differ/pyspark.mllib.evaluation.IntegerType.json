@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "simpleString"}], "version": "v1.4.0", "name": "pyspark.mllib.evaluation.IntegerType", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.mllib.evaluation.IntegerType", "version": "v1.4.0", "class_methods": []}

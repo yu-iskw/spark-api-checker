@@ -1,0 +1,6 @@
+{
+  "instance_methods": [],
+  "name": "pyspark.ml.classification.HasElasticNetParam",
+  "version": "master",
+  "class_methods": []
+}

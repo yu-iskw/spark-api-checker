@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v0.9.0-incubating", "type": "instancemethod", "name": "predict"}, {"version": "v1.4.0", "type": "instancemethod", "name": "save"}], "version": "v0.9.0-incubating", "name": "pyspark.mllib.classification.NaiveBayesModel", "class_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "load"}]}
+{"instance_methods": [], "name": "pyspark.mllib.classification.NaiveBayesModel", "version": "v0.9.0-incubating", "class_methods": []}

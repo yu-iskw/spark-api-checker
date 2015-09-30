@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.5.0-rc1", "type": "instancemethod", "name": "setFeaturesCol"}, {"version": "v1.5.0-rc1", "type": "instancemethod", "name": "getFeaturesCol"}], "version": "v1.5.0-rc1", "name": "pyspark.ml.clustering.HasFeaturesCol", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.ml.clustering.HasFeaturesCol", "version": "v1.5.0", "class_methods": []}

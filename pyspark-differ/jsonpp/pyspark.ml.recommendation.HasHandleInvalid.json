@@ -1,0 +1,6 @@
+{
+  "instance_methods": [],
+  "name": "pyspark.ml.recommendation.HasHandleInvalid",
+  "version": "master",
+  "class_methods": []
+}

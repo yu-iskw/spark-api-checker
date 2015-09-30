@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.2.0", "name": "pyspark.mllib.tree.RandomForestModel", "class_methods": [{"version": "v1.3.0", "type": "instancemethod", "name": "_java_loader_class"}]}
+{"instance_methods": [], "name": "pyspark.mllib.tree.RandomForestModel", "version": "v1.2.0", "class_methods": []}

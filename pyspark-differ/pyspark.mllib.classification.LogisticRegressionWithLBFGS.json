@@ -1,1 +1,1 @@
-{"instance_methods": [], "version": "v1.2.0", "name": "pyspark.mllib.classification.LogisticRegressionWithLBFGS", "class_methods": [{"version": "v1.2.0", "type": "instancemethod", "name": "train"}]}
+{"instance_methods": [], "name": "pyspark.mllib.classification.LogisticRegressionWithLBFGS", "version": "v1.2.0", "class_methods": []}

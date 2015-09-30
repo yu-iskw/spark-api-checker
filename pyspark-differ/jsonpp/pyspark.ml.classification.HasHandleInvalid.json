@@ -1,0 +1,6 @@
+{
+  "instance_methods": [],
+  "name": "pyspark.ml.classification.HasHandleInvalid",
+  "version": "master",
+  "class_methods": []
+}

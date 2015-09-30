@@ -1,1 +1,1 @@
-{"instance_methods": [{"version": "v1.4.0", "type": "instancemethod", "name": "copy"}, {"version": "v1.4.0", "type": "instancemethod", "name": "_transform"}], "version": "v1.4.0", "name": "pyspark.ml.tuning.CrossValidatorModel", "class_methods": []}
+{"instance_methods": [], "name": "pyspark.ml.tuning.CrossValidatorModel", "version": "v1.4.0", "class_methods": []}
